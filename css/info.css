@@ -1,0 +1,8 @@
+body {
+  background-image: url('img/back.png');
+}
+img{
+  float: center;
+  width: 125px;
+  height: 125px;
+}

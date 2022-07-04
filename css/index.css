@@ -1,0 +1,14 @@
+body {
+  background-image: url('img/aaa.png');
+}
+h1
+{
+  text-align: center;
+}
+#tab
+{
+  font-size: 25px;
+}
+a{
+  color: cyan;
+}
